@@ -18,9 +18,9 @@ https://challenge.fra.se/
 
 - `Binwalk` was used across all `.jpg` files to discover hidden embedded files.
 
-	```bash 
+```bash 
 binwalk -e kitten-*.jpg
-	```
+```
 
 - The `Binwalk` scan revealed this tag on `kitten-3.jpg`:
 

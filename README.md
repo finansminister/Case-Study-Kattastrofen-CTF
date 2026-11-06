@@ -6,7 +6,7 @@ https://challenge.fra.se/
 ## Overview
 - The main objective is network traffic analysis inside an archived .pcap file.
 
-- Main tools used: `Wireshark`, `tshark`, `Binwalk`, `Python 3`.
+- Main tools used: `Wireshark`, `tshark`, `steghide`, `binwalk`, `Python 3`.
 
 ## Reconnaissance / Enumeration (Flag 1)
 - Analyzing the provided `.pcap` file in Wireshark revealed HTTP traffic containing a transferred zip archive (`kittens.zip`) along with 6 image assets (`kittens-0[1-6].jpg`).

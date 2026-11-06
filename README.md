@@ -1,4 +1,6 @@
-# Post Mortem: Kattastrofen CTF
+# Case Study: Kattastrofen CTF
+A Post Mortem analysis of my attempt at completing the Kattastrofen FRA CTF challenge.
+
 https://challenge.fra.se/
 
 ## Overview
